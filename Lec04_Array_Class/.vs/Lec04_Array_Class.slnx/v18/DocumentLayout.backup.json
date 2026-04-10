@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kimdk\\data-structure-lab-2026\\Lec04_Array_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9387D1FD-6E9E-4F8E-92ED-81202C17BC07}|..\\complex_class\\complex_class.vcxproj|C:\\Users\\kimdk\\data-structure-lab-2026\\complex_class\\complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9387D1FD-6E9E-4F8E-92ED-81202C17BC07}|..\\complex_class\\complex_class.vcxproj|C:\\Users\\kimdk\\data-structure-lab-2026\\complex_class\\complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E54D19-11A7-4CDF-B866-D966E466E177}|..\\Polynomial.Class\\Polynomial.Class.vcxproj|C:\\Users\\kimdk\\data-structure-lab-2026\\Polynomial.Class\\polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E54D19-11A7-4CDF-B866-D966E466E177}|..\\Polynomial.Class\\Polynomial.Class.vcxproj|C:\\Users\\kimdk\\data-structure-lab-2026\\Polynomial.Class\\polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC32A75-0E6F-4CE5-AA7D-DC5B84750869}|..\\Car_class\\Car_class.vcxproj|C:\\Users\\kimdk\\data-structure-lab-2026\\Car_class\\sportscar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC32A75-0E6F-4CE5-AA7D-DC5B84750869}|..\\Car_class\\Car_class.vcxproj|C:\\Users\\kimdk\\data-structure-lab-2026\\Car_class\\car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC32A75-0E6F-4CE5-AA7D-DC5B84750869}|..\\Car_class\\Car_class.vcxproj|C:\\Users\\kimdk\\data-structure-lab-2026\\Car_class\\car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A217AB-3B87-4261-96B7-A9C41068FFC6}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|C:\\Users\\kimdk\\data-structure-lab-2026\\Lec04_Array_Class\\Lec04_Array_Class\\maxlight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9A217AB-3B87-4261-96B7-A9C41068FFC6}|Lec04_Array_Class\\Lec04_Array_Class.vcxproj|solutionrelative:Lec04_Array_Class\\maxlight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "complex.h",
+              "DocumentMoniker": "C:\\Users\\kimdk\\data-structure-lab-2026\\complex_class\\complex.h",
+              "RelativeDocumentMoniker": "..\\complex_class\\complex.h",
+              "ToolTip": "C:\\Users\\kimdk\\data-structure-lab-2026\\complex_class\\complex.h",
+              "RelativeToolTip": "..\\complex_class\\complex.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T05:31:02.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "complex.cpp",
+              "DocumentMoniker": "C:\\Users\\kimdk\\data-structure-lab-2026\\complex_class\\complex.cpp",
+              "RelativeDocumentMoniker": "..\\complex_class\\complex.cpp",
+              "ToolTip": "C:\\Users\\kimdk\\data-structure-lab-2026\\complex_class\\complex.cpp",
+              "RelativeToolTip": "..\\complex_class\\complex.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T05:33:28.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sportscar.h",
+              "DocumentMoniker": "C:\\Users\\kimdk\\data-structure-lab-2026\\Car_class\\sportscar.h",
+              "RelativeDocumentMoniker": "..\\Car_class\\sportscar.h",
+              "ToolTip": "C:\\Users\\kimdk\\data-structure-lab-2026\\Car_class\\sportscar.h",
+              "RelativeToolTip": "..\\Car_class\\sportscar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T04:57:16.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "car.h",
+              "DocumentMoniker": "C:\\Users\\kimdk\\data-structure-lab-2026\\Car_class\\car.h",
+              "RelativeDocumentMoniker": "..\\Car_class\\car.h",
+              "ToolTip": "C:\\Users\\kimdk\\data-structure-lab-2026\\Car_class\\car.h",
+              "RelativeToolTip": "..\\Car_class\\car.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T04:56:34.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "car.cpp",
+              "DocumentMoniker": "C:\\Users\\kimdk\\data-structure-lab-2026\\Car_class\\car.cpp",
+              "RelativeDocumentMoniker": "..\\Car_class\\car.cpp",
+              "ToolTip": "C:\\Users\\kimdk\\data-structure-lab-2026\\Car_class\\car.cpp",
+              "RelativeToolTip": "..\\Car_class\\car.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T04:55:40.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "polynomial.h",
+              "DocumentMoniker": "C:\\Users\\kimdk\\data-structure-lab-2026\\Polynomial.Class\\polynomial.h",
+              "RelativeDocumentMoniker": "..\\Polynomial.Class\\polynomial.h",
+              "ToolTip": "C:\\Users\\kimdk\\data-structure-lab-2026\\Polynomial.Class\\polynomial.h",
+              "RelativeToolTip": "..\\Polynomial.Class\\polynomial.h",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvykAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-10T04:49:40.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "polynomial.cpp",
+              "DocumentMoniker": "C:\\Users\\kimdk\\data-structure-lab-2026\\Polynomial.Class\\polynomial.cpp",
+              "RelativeDocumentMoniker": "..\\Polynomial.Class\\polynomial.cpp",
+              "ToolTip": "C:\\Users\\kimdk\\data-structure-lab-2026\\Polynomial.Class\\polynomial.cpp",
+              "RelativeToolTip": "..\\Polynomial.Class\\polynomial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T04:48:11.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "maxlight.cpp",
+              "DocumentMoniker": "C:\\Users\\kimdk\\data-structure-lab-2026\\Lec04_Array_Class\\Lec04_Array_Class\\maxlight.cpp",
+              "RelativeDocumentMoniker": "Lec04_Array_Class\\maxlight.cpp",
+              "ToolTip": "C:\\Users\\kimdk\\data-structure-lab-2026\\Lec04_Array_Class\\Lec04_Array_Class\\maxlight.cpp",
+              "RelativeToolTip": "Lec04_Array_Class\\maxlight.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-09T17:42:27.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
