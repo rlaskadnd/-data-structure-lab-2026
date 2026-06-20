@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DFS/DFS.vcxproj" />
+  <Project Path="lec10_graph/lec10_graph.vcxproj" />
+</Solution>

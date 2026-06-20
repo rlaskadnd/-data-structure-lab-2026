@@ -1,0 +1,35 @@
+#include "Location2D.h"
+#include <deque> // STL의 deque 포함
+using namespace std;
+
+int main() {
+    deque<Location2D> locDeque; // 위치 덱 객체 생성
+    Location2D entry(1, 0);     // 입구 객체
+    locDeque.push_back(entry);   // 데크의 뒤에 삽입
+
+    while (locDeque.empty() == false) {
+        Location2D here = locDeque.front(); // 데크의 앞에서 꺼냄 (큐의 front 역할)
+        locDeque.pop_front();
+
+        int r = here.row;
+        int c = here.col;
+        printf("(%d,%d) ", r, c);
+
+        // 출구이면 탐색 성공
+        if (map[r][c] == 'x') {
+            printf("\n미로 탐색 성공\n");
+            return 0;
+        }
+        else {
+            map[r][c] = '.'; // 방문 표시
+
+            // 상, 하, 좌, 우 순서로 검사하여 push
+            if (isValidLoc(r - 1, c)) locDeque.push_back(Location2D(r - 1, c));
+            if (isValidLoc(r + 1, c)) locDeque.push_back(Location2D(r + 1, c));
+            if (isValidLoc(r, c - 1)) locDeque.push_back(Location2D(r, c - 1));
+            if (isValidLoc(r, c + 1)) locDeque.push_back(Location2D(r, c + 1));
+        }
+    }
+    printf("\n미로 탐색 실패\n");
+    return 0;
+}
